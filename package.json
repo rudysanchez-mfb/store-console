@@ -1,0 +1,27 @@
+{
+  "name": "store-console",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automate Google Play Console and App Store Connect web consoles via Playwright over the Chrome DevTools Protocol.",
+  "license": "Apache-2.0",
+  "author": "Rudy Sanchez",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rudysanchez-mfb/store-console.git"
+  },
+  "keywords": [
+    "playwright",
+    "cdp",
+    "chrome-devtools-protocol",
+    "google-play-console",
+    "app-store-connect",
+    "automation"
+  ],
+  "dependencies": {
+    "playwright-core": "1.52.0"
+  }
+}

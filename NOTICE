@@ -1,0 +1,9 @@
+store-console
+Copyright 2026 Rudy Sanchez
+
+This product automates Google Play Console and App Store Connect web consoles
+using Playwright over the Chrome DevTools Protocol.
+
+This product is not affiliated with, endorsed by, or sponsored by Google LLC or
+Apple Inc. Google Play, Google Play Console, App Store and App Store Connect are
+trademarks of their respective owners.

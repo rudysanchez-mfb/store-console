@@ -1,0 +1,33 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs and test output
+*.log
+test-results/
+playwright-report/
+coverage/
+shots/
+screenshots/
+shot.png
+
+# Browser profile copies and session data
+store-console-chrome/
+**/store-console-chrome/
+*.profile/
+Cookies
+Login Data
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
